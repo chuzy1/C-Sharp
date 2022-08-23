@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ex1": {
+      "commandName": "Project",
+      "commandLineArgs": "11",
+      "workingDirectory": "C:\\Users\\surface2000\\source\\repos\\chuzy1\\C-Sharp",
+      "nativeDebugging": true
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}

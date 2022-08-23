@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\bin\Debug\net6.0\ExpForLoop.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\bin\Debug\net6.0\ExpForLoop.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\bin\Debug\net6.0\ExpForLoop.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\bin\Debug\net6.0\ExpForLoop.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\bin\Debug\net6.0\ExpForLoop.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ExpForLoop.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ExpForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ExpForLoop.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ExpForLoop.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ExpForLoop.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ExpForLoop.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\refint\ExpForLoop.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ExpForLoop.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ExpForLoop.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpForLoop\obj\Debug\net6.0\ref\ExpForLoop.dll

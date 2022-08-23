@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\bin\Debug\net6.0\ExpClassandObjects.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\bin\Debug\net6.0\ExpClassandObjects.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\bin\Debug\net6.0\ExpClassandObjects.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\bin\Debug\net6.0\ExpClassandObjects.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\bin\Debug\net6.0\ExpClassandObjects.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ExpClassandObjects.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ExpClassandObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ExpClassandObjects.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ExpClassandObjects.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ExpClassandObjects.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ExpClassandObjects.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\refint\ExpClassandObjects.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ExpClassandObjects.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ExpClassandObjects.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpClass\obj\Debug\net6.0\ref\ExpClassandObjects.dll

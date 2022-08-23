@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\bin\Debug\net6.0\ExpStingArray.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\bin\Debug\net6.0\ExpStingArray.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\bin\Debug\net6.0\ExpStingArray.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\bin\Debug\net6.0\ExpStingArray.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\bin\Debug\net6.0\ExpStingArray.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ExpStingArray.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ExpStingArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ExpStingArray.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ExpStingArray.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ExpStingArray.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ExpStingArray.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\refint\ExpStingArray.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ExpStingArray.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ExpStingArray.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpStingArray\obj\Debug\net6.0\ref\ExpStingArray.dll

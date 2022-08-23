@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ExpAndOr.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ExpAndOr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ExpAndOr.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ExpAndOr.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ExpAndOr.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\bin\Debug\net6.0\ExpAndOr.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\bin\Debug\net6.0\ExpAndOr.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\bin\Debug\net6.0\ExpAndOr.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\bin\Debug\net6.0\ExpAndOr.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\bin\Debug\net6.0\ExpAndOr.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ExpAndOr.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\refint\ExpAndOr.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ExpAndOr.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ExpAndOr.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpAndOr\obj\Debug\net6.0\ref\ExpAndOr.dll

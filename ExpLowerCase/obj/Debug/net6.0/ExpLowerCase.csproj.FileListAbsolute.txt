@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\bin\Debug\net6.0\ExpLowerCase.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\bin\Debug\net6.0\ExpLowerCase.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\bin\Debug\net6.0\ExpLowerCase.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\bin\Debug\net6.0\ExpLowerCase.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\bin\Debug\net6.0\ExpLowerCase.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ExpLowerCase.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ExpLowerCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ExpLowerCase.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ExpLowerCase.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ExpLowerCase.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ExpLowerCase.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\refint\ExpLowerCase.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ExpLowerCase.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ExpLowerCase.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpLowerCase\obj\Debug\net6.0\ref\ExpLowerCase.dll

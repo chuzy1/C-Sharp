@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ExpStringFormating.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ExpStringFormating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ExpStringFormating.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ExpStringFormating.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ExpStringFormating.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\bin\Debug\net6.0\ExpStringFormating.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\bin\Debug\net6.0\ExpStringFormating.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\bin\Debug\net6.0\ExpStringFormating.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\bin\Debug\net6.0\ExpStringFormating.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\bin\Debug\net6.0\ExpStringFormating.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ExpStringFormating.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\refint\ExpStringFormating.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ExpStringFormating.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ExpStringFormating.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpStringFormating\obj\Debug\net6.0\ref\ExpStringFormating.dll

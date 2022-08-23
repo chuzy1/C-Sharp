@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ExpSwitchCase.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ExpSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ExpSwitchCase.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ExpSwitchCase.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ExpSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\bin\Debug\net6.0\ExpSwitchCase.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\bin\Debug\net6.0\ExpSwitchCase.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\bin\Debug\net6.0\ExpSwitchCase.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\bin\Debug\net6.0\ExpSwitchCase.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\bin\Debug\net6.0\ExpSwitchCase.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ExpSwitchCase.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\refint\ExpSwitchCase.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ExpSwitchCase.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ExpSwitchCase.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpSwitchCase\obj\Debug\net6.0\ref\ExpSwitchCase.dll

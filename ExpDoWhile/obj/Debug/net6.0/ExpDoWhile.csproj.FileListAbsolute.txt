@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ExpDoWhile.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ExpDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ExpDoWhile.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ExpDoWhile.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ExpDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\bin\Debug\net6.0\ExpDoWhile.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\bin\Debug\net6.0\ExpDoWhile.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\bin\Debug\net6.0\ExpDoWhile.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\bin\Debug\net6.0\ExpDoWhile.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\bin\Debug\net6.0\ExpDoWhile.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ExpDoWhile.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\refint\ExpDoWhile.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ExpDoWhile.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ExpDoWhile.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpDoWhile\obj\Debug\net6.0\ref\ExpDoWhile.dll

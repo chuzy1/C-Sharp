@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\bin\Debug\net6.0\Exercise_Salary.exe
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\bin\Debug\net6.0\Exercise_Salary.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\bin\Debug\net6.0\Exercise_Salary.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\bin\Debug\net6.0\Exercise_Salary.dll
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\bin\Debug\net6.0\Exercise_Salary.pdb
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\Exercise_Salary.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\Exercise_Salary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\Exercise_Salary.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\Exercise_Salary.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\Exercise_Salary.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\Exercise_Salary.dll
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\refint\Exercise_Salary.dll
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\Exercise_Salary.pdb
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\Exercise_Salary.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\Exercise_Salary\obj\Debug\net6.0\ref\Exercise_Salary.dll

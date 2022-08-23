@@ -1,0 +1,15 @@
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ExpClassandObjects2.csproj.AssemblyReference.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ExpClassandObjects2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ExpClassandObjects2.AssemblyInfoInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ExpClassandObjects2.AssemblyInfo.cs
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ExpClassandObjects2.csproj.CoreCompileInputs.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\bin\Debug\net6.0\ExpClassandObjects2.exe
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\bin\Debug\net6.0\ExpClassandObjects2.deps.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\bin\Debug\net6.0\ExpClassandObjects2.runtimeconfig.json
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\bin\Debug\net6.0\ExpClassandObjects2.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\bin\Debug\net6.0\ExpClassandObjects2.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ExpClassandObjects2.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\refint\ExpClassandObjects2.dll
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ExpClassandObjects2.pdb
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ExpClassandObjects2.genruntimeconfig.cache
+C:\Users\surface2000\source\repos\C-Sharp\ExpClassandObjects2\obj\Debug\net6.0\ref\ExpClassandObjects2.dll
