@@ -11,7 +11,7 @@ namespace Exercise_Salary
         static void Main()
         {
            /*
-            tax calculation on salary.
+            tas calculation on salary.
            */
             double tax;
             Console.WriteLine(" Please enter salary ");                        
