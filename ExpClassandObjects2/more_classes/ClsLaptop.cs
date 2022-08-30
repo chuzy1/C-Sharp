@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ExpClassandObjects2.more_classes
 {
+    // Creating Class
     internal class ClsLaptop
     {
+        // creating "properties"
         public string? brand;
         public string? model;
         public double size;
@@ -15,7 +17,7 @@ namespace ExpClassandObjects2.more_classes
         public double RAM;
         public string? processor;
 
-        //public string processor;
+        // Creating method
 
         public void DisplayFeatures()
         {

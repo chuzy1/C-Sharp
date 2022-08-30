@@ -12,4 +12,35 @@
     <Compile Remove="Program.cs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net6.0\ExpClassandObjects2.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net6.0\ExpClassandObjects2.GlobalUsings.g.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="obj\Debug\net6.0\ExpClassandObjects2.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\ExpClassandObjects2.csproj.nuget.dgspec.json" />
+    <Content Include="obj\project.assets.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="obj\Debug\net6.0\apphost.exe" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.AssemblyInfoInputs.cache" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.assets.cache" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.csproj.AssemblyReference.cache" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.csproj.BuildWithSkipAnalyzers" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.dll" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.GeneratedMSBuildEditorConfig.editorconfig" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.genruntimeconfig.cache" />
+    <None Include="obj\Debug\net6.0\ExpClassandObjects2.pdb" />
+    <None Include="obj\Debug\net6.0\refint\ExpClassandObjects2.dll" />
+    <None Include="obj\Debug\net6.0\ref\ExpClassandObjects2.dll" />
+    <None Include="obj\Debug\net6.0\_IsIncrementalBuild" />
+    <None Include="obj\ExpClassandObjects2.csproj.nuget.g.props" />
+    <None Include="obj\ExpClassandObjects2.csproj.nuget.g.targets" />
+    <None Include="obj\project.nuget.cache" />
+  </ItemGroup>
+
 </Project>

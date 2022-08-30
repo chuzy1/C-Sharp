@@ -8,7 +8,7 @@ namespace ExpClassandObjects2
 {
     internal class ClsArea
     {
-       static void Main()
+       static void main()
         {
             ClsBox ups = new();
             ups.Length = 20;

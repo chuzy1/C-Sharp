@@ -8,10 +8,11 @@ namespace Exercise_Salary
 {
     internal class Class1
     {
+        
         static void Main()
         {
            /*
-            tas calculation on salary.
+            tax calculation on salary.
            */
             double tax;
             Console.WriteLine(" Please enter salary ");                        

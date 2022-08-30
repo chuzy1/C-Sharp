@@ -8,7 +8,8 @@ namespace ExpClassandObjects2.more_classes
 {
     internal class ClsDisplay
     {
-        static void Mian()
+        //creating object "laptop1"
+        static void Main()
         {
             ClsLaptop laptop1 = new();
                 laptop1.brand = "Dell";
@@ -17,6 +18,8 @@ namespace ExpClassandObjects2.more_classes
                 laptop1.size = 14;
                 laptop1.processor = "i7";
                 laptop1.HDD = 500;
+                laptop1.DisplayFeatures();
+
                    
 
         }
