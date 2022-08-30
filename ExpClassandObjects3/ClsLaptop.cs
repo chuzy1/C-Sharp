@@ -20,7 +20,6 @@ namespace ExpClassandObjects3
 
         public void DisplayFeatures()
         {
-            string? features = brand;
             Console.WriteLine(brand+" Laptop");
             Console.WriteLine("Screen size "+size+"inch");
             Console.WriteLine("HDD "+HDD+"gb");
